@@ -1,3 +1,1 @@
-function oiamigos() {
-  console.log("OI amiigguuiinhooosss, e Hello World!");
-}
+console.log("HELLLOOOOO WORLD");
